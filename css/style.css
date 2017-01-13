@@ -913,7 +913,7 @@ textarea.form-control {
 }
 
 header.row {
-  background: url(../images/header-background.jpg) no-repeat scroll center bottom;
+  background: url(../images/header-background.jpg) no-repeat scroll center top;
   background-size: cover;
 }
 
@@ -1220,7 +1220,7 @@ header.video-bg {
 
 /*=========The Product==========*/
 .the-product {
-  padding: 110px 0 160px;
+  padding: 0px 0 0px;
 }
 
 @media (max-width: 767px) {
