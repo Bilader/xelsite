@@ -1,6 +1,6 @@
 # Elastic Site
 
-Official Elastic Site repository. Based on Bootstrap/HTML5/CSS. Preview: https://bilader.github.io/xelsite/
+Elastic Site repository. Based on Bootstrap/HTML5/CSS. Preview: https://bilader.github.io/xelsite/
 
 <em>We can build elastic website on this template, we need contents,graphics and ideas... Lets work on it together</em>
 
